@@ -10,24 +10,25 @@ Any comments and suggestions are welcome. If you want to add a new design patter
 There are three kinds of Design Patterns
 
 * Creational
+  * [Factory](/FactoryPattern)
+  * [Singleton](/SingletonPattern)
+  
 * Structural
+  * [Adapter](/AdapterPattern)
+  * [Bridge](/BridgePattern)
+  * [Decorator](/DecoratorPattern)
+  * [Facade](/FacadePattern)
+  * [Composite](/CompositePattern)
+  * [Flyweight](/FlyweightPattern)
+  
 * Behavioral
+  * [Command](/CommandPattern)
+  * [Iterator](/IteratorPattern)
+  * [Strategy](/StrategyPattern)
+  * [Observer](/ObserverPattern)
+  * [Template](/TemplatePattern)
+  * [Visitor](/VisitorPattern)
+  * [State](/StatePattern)
 
-## List of Design Pattern Implementations
------------------------------------------
 
-* [Adapter](/AdapterPattern)
-* [Bridge](/BridgePattern)
-* [Command](/CommandPattern)
-* [Composite](/CompositePattern)
-* [Decorator](/DecoratorPattern)
-* [Facade](/FacadePattern)
-* [Factory](/FactoryPattern)
-* [Flyweight](/FlyweightPattern)
-* [Iterator](/IteratorPattern)
-* [Observer](/ObserverPattern)
-* [Singleton](/SingletonPattern)
-* [State](/StatePattern)
-* [Strategy](/StrategyPattern)
-* [Template](/TemplatePattern)
-* [Visitor](/VisitorPattern)
+
